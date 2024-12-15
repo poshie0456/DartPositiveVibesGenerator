@@ -34,3 +34,10 @@ print(affirmation);
 // Generate speech from the affirmation and save as MP3
 String audioFilePath = await service.generateAndPlaySpeech(affirmation);
 print("Audio saved at $audioFilePath");
+
+
+
+
+https://github.com/user-attachments/assets/66428673-9781-42b3-9633-5a2b1880857f
+
+
