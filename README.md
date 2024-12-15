@@ -24,6 +24,8 @@ This Dart service provides functionality for generating affirmations and convert
 
 ## Example Usage
 
+https://github.com/user-attachments/assets/66428673-9781-42b3-9633-5a2b1880857f
+
 ```dart
 final service = Service();
 
@@ -38,6 +40,6 @@ print("Audio saved at $audioFilePath");
 
 
 
-https://github.com/user-attachments/assets/66428673-9781-42b3-9633-5a2b1880857f
+
 
 
